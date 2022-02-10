@@ -1,1 +1,1 @@
-Repository for Machine Learing for Cities in Summmer 2021
+Repository for Machine Learing for Cities in Summer 2021
